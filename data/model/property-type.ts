@@ -5,3 +5,4 @@ export type PropertyType = {
   imageUrl: string;
   propertyCount: number;
 };
+
